@@ -1,0 +1,1 @@
+ componentes/PropertyCondition.js
