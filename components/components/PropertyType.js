@@ -1,1 +1,0 @@
-Criar componentes/PropertyType.js
